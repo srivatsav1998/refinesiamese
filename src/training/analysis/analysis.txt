@@ -1,0 +1,7 @@
+tc_airport 53.33 overlap
+
+tracker_par.scaleStep = 1.0470;
+tracker_par.scalePenalty = 1.0825;
+tracker_par.scaleLR = 0.78;
+tracker_par.wInfluence = 0.175;
+tracker_par.zLR = 0.202;
