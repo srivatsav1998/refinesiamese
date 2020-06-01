@@ -13,4 +13,4 @@ Once the dataset is downloaded and all the variables are updated with the paths,
 
 ## Acknowledgement
 This project is done as part of my summer internship work at Indian Institute of Space Science and Technology, Trivandrum.
-Thanks to my mentor, Dr. Deepak Mishra, who has guided me and motivated me enough to understand and implement this solution.
+Thanks to my mentor, Dr. Deepak Mishra, Associate Professor in Avionics department, who has guided me and motivated me enough to understand and implement this solution.
